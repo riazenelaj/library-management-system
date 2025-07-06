@@ -1,2 +1,8 @@
-# library-management-system
-This repository contains a full-stack Library Management System built with Java (Spring Boot) for the backend and React for the frontend. It includes REST APIs for managing books, authors, and reviews, along with a user-friendly interface to interact with the system.
+# 📚 Library Management System
+
+This is a full-stack Library Management System built as a training project. It combines:
+
+- **Backend**: Java & Spring Boot REST API for managing books, authors, and reviews
+- **Frontend**: React application for interacting with the system through a simple user interface
+
+Each subfolder contains its own `README.md` with setup and usage details.
