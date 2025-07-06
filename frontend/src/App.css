@@ -1,0 +1,89 @@
+.container {
+  display: flex;
+  margin: 20px;
+  height: 100%;
+ width: 100%;
+}
+
+.book-card-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 30px;
+  align-items: center;
+  margin: 40px;
+  padding: 20px;
+  margin-top: 70px;
+  width: 100%;
+  height: 100%;
+  justify-content: space-around;
+  margin-right: 50px;
+
+}
+.bookDetails{
+  width: 100%;
+  height: 100%;
+}
+.header-review{
+  display:flexbox;
+  justify-content: space-between;
+ flex-direction: row;
+   margin-bottom: 10px;
+}
+.left{
+  margin-right: 20px;
+}
+.reviews{
+  margin: 20px;
+  width: 90%;
+
+}
+.h2-r{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+.card{
+  display: grid;
+  margin: 30px;
+ width: 80%;
+ height: 70px;
+ color: aliceblue;
+}
+.card-header{ 
+  display: flex;
+justify-content: space-between;
+padding: 10px;
+height: 60px;
+}
+.card-body{
+  font-size: 15px;
+}
+.header-date{
+text-align: right;
+}
+.authors-list{
+  width: 100%;
+  height: 100px;
+     text-align: center;
+}
+.list-title{
+  text-align: center;
+  width: 70%;
+  margin: 20px;
+}
+.add-author{
+  margin: 20px;
+  margin-left: 20px;
+}
+.author-name{
+  margin: 20px;
+}
+.author-surname{
+  margin: 20px;
+}
+.btn{
+  text-align: right;
+  justify-content: space-between;
+  margin: 10px;
+}
